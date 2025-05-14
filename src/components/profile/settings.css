@@ -1,0 +1,4 @@
+.ck-editor .ck-editor__main .ck-content {
+    max-height: 250px !important;
+    min-height: 250px !important;;
+}

@@ -1,0 +1,11 @@
+# Project exclude paths
+/vite.config.d.ts
+/vite.config.js
+/.idea/
+/node_modules/
+/package-lock.json
+/src/components.d.ts
+
+# Project exclude paths
+/out/
+/target/

@@ -1,0 +1,17 @@
+.ck-editor .ck-editor__main .ck-content {
+    max-height: 250px;
+    min-height: 250px;
+}
+
+
+.markerLegend {
+    background-size: cover;
+    border-radius: 50%;
+}
+
+.markerLegend:before {
+    font-family: 'FontAwesome';
+    content: "\f041";
+    font-size: 30px;
+    -webkit-text-stroke: 1px black; /* width and color */
+}
